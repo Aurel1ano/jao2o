@@ -3,6 +3,9 @@ package com.yjq.jao2o.entity;
 import lombok.Data;
 import java.util.Date;
 
+/**
+ * 区域信息
+ */
 @Data
 public class Area {
 
