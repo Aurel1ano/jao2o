@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>YJQ Hello World!</h2>
+<h2>JA Hello World!</h2>
 </body>
 </html>
